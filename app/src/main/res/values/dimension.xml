@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtsize">25dp</dimen>
+    <dimen name="edittext">5dp</dimen>
+    <dimen name="desc">20dp</dimen>
+</resources>
